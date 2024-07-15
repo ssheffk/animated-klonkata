@@ -2,6 +2,10 @@
 
 Klonkata is a mini animated project built using Next.js, React, GSAP (GreenSock Animation Platform), and Locomotive Scroll. This project demonstrates how to create smooth and engaging animations with modern web technologies.
 
+# Demo
+
+https://klonkata.vercel.app/
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -9,7 +13,6 @@ Klonkata is a mini animated project built using Next.js, React, GSAP (GreenSock 
 - [Scripts](#scripts)
 - [Dependencies](#dependencies)
 - [Development Dependencies](#development-dependencies)
-- [License](#license)
 
 ## Installation
 
